@@ -1,4 +1,4 @@
-# Robotics & Autonomous Systems Portfolio
+# Aanimesh Srivastava Portfolio
 
 **Mechanical Engineering | Robotics R&D | Mechatronics | Autonomous Systems**
 
