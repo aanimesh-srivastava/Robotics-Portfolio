@@ -149,7 +149,7 @@ Project folders will contain relevant materials, where available:
 B.Tech Mechanical Engineering | VIT Vellore
 
 - Email: aanimesh1102@gmail.com
-- LinkedIn: Add your profile link
-- GitHub: Add your GitHub profile link
+- LinkedIn: www.linkedin.com/in/aanimesh-srivastava
+- GitHub: https://github.com/aanimesh-srivastava
 
 **Areas of interest:** Robotics R&D, mechatronics, autonomous systems, robotic actuation, and embedded control.
