@@ -34,7 +34,7 @@ This folder will contain:
 
 ## Current Status
 
-The project includes CAD design and physical prototype fabrication. Add photographs and testing results to document the prototype's actual operating condition.
+The project includes CAD design and physical prototype fabrication.
 
 ## Key Learning
 
