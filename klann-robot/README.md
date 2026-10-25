@@ -1,6 +1,7 @@
 # Klann Mechanism Walking Robot
 
 **Mechanical Design | Linkage Kinematics | CAD | Prototype Fabrication**
+<img width="601" height="530" alt="image" src="https://github.com/user-attachments/assets/426cd88a-87e8-4eeb-bf78-d69e2eb2e217" />
 
 ## Overview
 
